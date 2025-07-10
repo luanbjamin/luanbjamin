@@ -1,8 +1,8 @@
-# **🫴🏻** 
+# **Hello, World!** 
 
 ---
 
-### 🪪 • Luan Benjamin (Ben) 
+### Luan Benjamin (Ben) 
   
 ---
 
@@ -10,7 +10,7 @@
 
 💻 • Ciência da Computação  
 
-👾 • Sistemas de Informação  
+🌐 • Sistemas de Informação  
 
 ### 🇺🇲 Graduating:  
 
@@ -62,11 +62,11 @@
 
 ---
 
-### 🌐 • **Como se comunicar comigo:**  
+### 💡 • **Como se comunicar comigo:**  
   
-🔗✨ • Minhas redes: https://bio.site/luanbjamin  
+✨ • Minhas redes: https://bio.site/luanbjamin  
  
-✨👤 • Meu LinkedIn: https://linkedin.in/luanbjamin/  
+👤 • Meu LinkedIn: https://linkedin.in/luanbjamin/  
 
 ### 🇺🇲 • **How ​​to contact me:**
 
