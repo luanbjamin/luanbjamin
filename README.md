@@ -1,4 +1,4 @@
-# **Sobre mim** | 🇺🇲 **About me**  
+# 🇧🇷 **Sobre mim** | 🇺🇲 **About me**  
 
 ---
 
