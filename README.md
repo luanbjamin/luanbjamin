@@ -44,7 +44,7 @@ Para entrar em contato, minhas informações estarão disponíveis na seção su
   </a>
 </div>
 
-<br>👋🏻 Hello, World! My name is Luan Benjamin. <br>
+### 👋🏻 Hello, World! My name is Luan Benjamin. <br>
 
 🇺🇸 • I'm a Computer Science student and I'm interested in becoming both a data scientist and a full stack developer.
 
