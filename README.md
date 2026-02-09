@@ -23,7 +23,7 @@
 
 <div align="left">
   
-### 👋🏻 Olá, Mundo! Me chamo Luan Benjamin. <br>
+### 👋🏻🌐 Olá, Mundo! Me chamo Luan Benjamin. <br>
 
 🇧🇷 •  Sou estudante de Ciência da Computação e tenho interesse em me tornar tanto cientista de dados quanto desenvolvedor full stack.
 
@@ -44,7 +44,7 @@ Para entrar em contato, minhas informações estarão disponíveis na seção su
   </a>
 </div>
 
-### 👋🏻 Hello, World! My name is Luan Benjamin. <br>
+### 👋🏻🌐 Hello, World! My name is Luan Benjamin. <br>
 
 🇺🇸 • I'm a Computer Science student and I'm interested in becoming both a data scientist and a full stack developer.
 
